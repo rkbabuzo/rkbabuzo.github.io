@@ -23,6 +23,12 @@
     margin: auto;
 }
 
+.page-table .page-table-item .presentsmall {
+    position: relative;
+    max-width: 500px;
+    margin: auto;
+}
+
 .page-table .page-table-item img{
     width: 100%;
     height: auto;
