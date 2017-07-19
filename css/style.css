@@ -69,13 +69,25 @@
 -----------------------------------------------------------------*/
 
 
-body {
+.description {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
     color: #323232;
     background-color: #EAEAEA;
     font-size: 15px;
     font-weight: 400;
+    text-rendering:optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    color: #323232;
+    background-color: #EAEAEA;
+    font-size: 15px;
+    font-weight: 600;
     text-rendering:optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
