@@ -13,25 +13,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/assets/tph-newsletter-concept-2--hr.png</loc>
-    <lastmod>2017-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tph-newsletter.com/images/see-whats-on-small.gif</loc>
-    <lastmod>2017-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tph-newsletter.com/images/this-july-small.gif</loc>
-    <lastmod>2017-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tph-newsletter.com/images/thumbtalk-white.png</loc>
+    <loc>http://tph-newsletter.com/images/calendar-icon.png</loc>
     <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,13 +55,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/images/first-anniversary.png</loc>
+    <loc>http://tph-newsletter.com/images/this-july-small.gif</loc>
     <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/images/calendar-icon.png</loc>
+    <loc>http://tph-newsletter.com/images/thumbtalk-white.png</loc>
     <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -121,19 +103,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/assets/birthday-greeting-portrait-hr.png</loc>
-    <lastmod>2017-08-04</lastmod>
+    <loc>http://tph-newsletter.com/images/tucker-portrait.png</loc>
+    <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/assets/birthday-greeting-landscape-hr.png</loc>
-    <lastmod>2017-08-04</lastmod>
+    <loc>http://tph-newsletter.com/images/first-anniversary.png</loc>
+    <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/images/projects.png</loc>
+    <loc>http://tph-newsletter.com/images/tucker-name.png</loc>
     <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -241,13 +223,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/images/tucker-portrait.png</loc>
+    <loc>http://tph-newsletter.com/images/see-whats-on-small.gif</loc>
     <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tph-newsletter.com/images/tucker-name.png</loc>
+    <loc>http://tph-newsletter.com/images/projects.png</loc>
     <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
