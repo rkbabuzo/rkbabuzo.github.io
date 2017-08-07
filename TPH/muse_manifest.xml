@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tph-newsletter.com" resolutions="1x" timestamp="1502022885815">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tph-newsletter.com" resolutions="1x" timestamp="1502069649055">
   <folder name="css">
     <file name="site_global.css" crc="4009538864"/>
-    <file name="newsletter.css" crc="400808942" ref="newsletter"/>
-    <file name="index.css" crc="58763326" ref="index"/>
+    <file name="newsletter.css" crc="280817381" ref="newsletter"/>
+    <file name="index.css" crc="444304970" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="avenir-next-demi.woff" crc="77305719"/>
-    <file name="avenir-next-demi.eot" crc="367978577"/>
-    <file name="avenir-next-bold.woff" crc="3862628317"/>
-    <file name="avenir-next-bold.eot" crc="416693736"/>
     <file name="avenir-next-regular.woff" crc="4234933967"/>
     <file name="avenir-next-regular.eot" crc="262693611"/>
+    <file name="avenir-next-bold.woff" crc="3862628317"/>
+    <file name="avenir-next-bold.eot" crc="416693736"/>
     <file name="avenir-next-medium.woff" crc="4173824116"/>
     <file name="avenir-next-medium.eot" crc="4065451494"/>
+    <file name="avenir-next-demi.woff" crc="77305719"/>
+    <file name="avenir-next-demi.eot" crc="367978577"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="newsletter:index"/>
@@ -37,7 +37,7 @@
     <file name="blank.gif" crc="4208392903" ref="newsletter"/>
     <file name="first-anniversary.png" crc="152336791" seo="true" ref="newsletter"/>
     <file name="calendar-icon.png" crc="170322003" seo="true" ref="newsletter"/>
-    <file name="virtual-selfie-1.gif" crc="503479699" seo="true" ref="newsletter:index"/>
+    <file name="virtual-selfie-1.gif" crc="503479699" seo="true" ref="newsletter"/>
     <file name="bubble-3.png" crc="4190560911" seo="true" ref="newsletter"/>
     <file name="spotlight-sketch.jpg" crc="3847476908" ref="newsletter"/>
     <file name="member spotlight 2.png" crc="3945049765" seo="true" ref="newsletter"/>
@@ -61,9 +61,10 @@
     <file name="brand-reference.jpg" crc="4173165761" seo="true" ref="index"/>
     <file name="birthday-greeting-portrait.jpg" crc="513738541" seo="true" ref="index"/>
     <file name="birthday-greeting-landscape.jpg" crc="502394308" seo="true" ref="index"/>
-    <file name="tph-newsletter-concept-2.png" crc="316860429" seo="true" ref="index"/>
     <file name="tph-newsletter-concept-1.png" crc="534891816" seo="true" ref="index"/>
+    <file name="virtual-selfie-12.gif" crc="503479699" seo="true" ref="index"/>
+    <file name="tph-newsletter-concept-2.png" crc="316860429" seo="true" ref="index"/>
   </folder>
-  <file name="newsletter.html" crc="4108029534" seo="true" mt="1502022076843" redirect="true"/>
-  <file name="index.html" crc="4087832070" seo="true" mt="1502021868447" redirect="true"/>
+  <file name="newsletter.html" crc="155367672" seo="true" mt="1502067683284" redirect="true"/>
+  <file name="index.html" crc="4181729963" seo="true" mt="1502021868447" redirect="true"/>
 </manifest>
